@@ -1,0 +1,22 @@
+0 -> 1	distance = 1	mode is	 active mode
+0 -> 2	distance = 15	mode is	 light sleep mode
+0 -> 3	distance = 11	mode is	 light sleep mode
+0 -> 4	distance = 14	mode is	 light sleep mode
+1 -> 0	distance = 20	mode is	 deep sleep mode
+1 -> 2	distance = 1000	mode is	 deep sleep mode
+1 -> 3	distance = 22	mode is	 deep sleep mode
+1 -> 4	distance = 10	mode is	 light sleep mode
+2 -> 0	distance = 22	mode is	 deep sleep mode
+2 -> 1	distance = 1000	mode is	 deep sleep mode
+2 -> 3	distance = 40	mode is	 deep sleep mode
+2 -> 4	distance = 12	mode is	 light sleep mode
+3 -> 0	distance = 5	mode is	 active mode
+3 -> 1	distance = 16	mode is	 deep sleep mode
+3 -> 2	distance = 11	mode is	 light sleep mode
+3 -> 4	distance = 4	mode is	 active mode
+4 -> 0	distance = 1000	mode is	 deep sleep mode
+4 -> 1	distance = 23	mode is	 deep sleep mode
+4 -> 2	distance = 13	mode is	 light sleep mode
+4 -> 3	distance = 3	mode is	 active mode
+
+
